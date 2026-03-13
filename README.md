@@ -89,7 +89,3 @@ Des captures d’écran du dashboard peuvent être ajoutées ici pour illustrer 
 - la page de comparaison des agences ;
 - la page de synthèse des indicateurs clients ;
 - la page de recherche client.
-
-## Auteur
-
-**David [Nom]**
