@@ -1,4 +1,4 @@
-# Dashboard de pilotage des prêts immobiliers | Power BI
+# Dashboard Power BI de pilotage des prêts immobiliers
 
 ## Présentation
 
@@ -37,6 +37,10 @@ Cette page permet de suivre les principaux indicateurs liés à l’activité de
 - évolution du montant moyen des opérations ;
 - dossiers en cours de traitement.
 
+
+![Page 2 : Demande de prêts](https://github.com/davidpackm/real-estate-loan-dashboard-powerbi/blob/e44701188018a42e443defe1f8891c584538114d/credit-breton-p2.png)
+
+
 ### 2. Les performances des agences
 
 Cette page permet de comparer les agences entre elles à partir de plusieurs indicateurs de performance :
@@ -44,6 +48,9 @@ Cette page permet de comparer les agences entre elles à partir de plusieurs ind
 - nombre de demandes reçues ;
 - classement des agences par volume de demandes ;
 - taux d’acceptation des prêts par agence.
+
+![Page 3 : Performance des agences](https://github.com/davidpackm/real-estate-loan-dashboard-powerbi/blob/e44701188018a42e443defe1f8891c584538114d/credit-breton-p3.png)
+
 
 ### 3. Les indicateurs clients
 
