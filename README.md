@@ -2,7 +2,7 @@
 
 ## Présentation
 
-Ce projet consiste en la conception d’un dashboard Power BI destiné au pilotage de l’activité des prêts immobiliers des agences de **Soft Square**, dans le cadre d’un **cas simulé**.
+Ce projet consiste en la conception d’un dashboard Power BI destiné au pilotage de l’activité des prêts immobiliers des agences de **Crédit Breton**, dans le cadre d’un **cas simulé**.
 
 L’objectif du dashboard est de centraliser les principales informations liées aux demandes de prêts, de comparer les performances des agences du réseau et de faciliter la consultation des indicateurs clients utiles à l’analyse des dossiers.
 
